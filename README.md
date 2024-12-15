@@ -42,7 +42,7 @@ Things you may want to cover:
 2. `app > v1 > tasks_controller.rb`
 
 # What are params? Where do they come from?
-params are the parameters we setup in our routes so that when they're included in the URL request they can be passed to the database to access specific inforation within a table.
+- params are the parameters we setup in our routes so that when they're included in the URL request they can be passed to the database to access specific inforation within a table.
 they can come from a url, orform data
 
 # What is the purpose of a serializer?
